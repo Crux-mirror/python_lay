@@ -1,0 +1,48 @@
+zero、python基本
+	list 队列
+	dict 字典
+一、网页
+	网页基本知识 HTML
+	网站发包收包的概念 POST GET
+	js知识，动态网页
+二、分析语言
+	$正则表达式            
+	xpath
+	beautifulsoup模块
+三、开发者工具
+	$chrome                    
+	抓包工具
+	正则表达式测试工具
+四、模块
+	urllib
+	urllib2
+	requests
+	bs4
+	pyspider框架
+	scrapy框架
+	selenium 动态网络
+	ghost
+	phantomJS（不显示网页的selenium）
+五、反扒工具
+	PIL
+	opencv
+	pybrain
+	打码平台
+六、数据库
+	mysql
+	redis
+	mongodb
+	sqlite
+七、数据分析
+	numpy
+	pandas
+	matlab
+八、进阶
+	多线程、分布式
+九、展示
+	django框架
+	flask框架
+	
+	
+	
+
