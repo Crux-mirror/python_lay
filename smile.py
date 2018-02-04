@@ -3,8 +3,7 @@
 import urllib2
 import urllib
 import re
-import thread
-import time
+
 
 #爬虫类
 class Spider:
@@ -21,7 +20,7 @@ class Spider:
     #传送某一页的索引活页页面代码
     def getPage(self,pageIndex):
         try:
-            url = 'https://www.qiushibaike.com/hot/page/'+str(pageIndex)
+            url = 'https://www.qiushibaike.com/text/page/'+str(pageIndex)
             #构建请求的request
             request = urllib2.Request(url,headers=self.headers)
             #利用urlopen获取页面代码
